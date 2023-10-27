@@ -1,8 +1,8 @@
-👋 Hi, I’m @mnmalikdev
-Currently, I am working as an Associate Software Engineer @ Code-Huddle
-👀 My skillset includes but not limited to TS+JS, React.js,React-Native, MONGODB, NODE.JS , NEST.JS , NEXT.JS, Firebase, TypeORM.
-🌱 I have been working with MERN stack since the last 3 years.
-📫 How to reach me : email me at mnmalikdev@gmail.com for any remote job opportunities.
-Looking for remote opportunities.
-LINKEDIN- https://www.linkedin.com/in/nabeelmalik97/
-PORTFOLIO WEBSITE: https://mnmalikdev-portfolio.vercel.app/
+#	👋 Hi, I’m @saadrashid304
+*	Currently, I am working as an Associate Software Engineer @ Code-Huddle
+*	👀 My skillset includes React.js, Spring Boot, MongoDB, and Microservices Architecture.
+*	🌱 I have been working with React.js and Spring Boot since the last 1.5 years.
+*	📫 How to reach me : email me at saadrashid304@gmail.com for any remote job opportunities.
+*	Looking for remote opportunities.
+*	LINKEDIN- https://www.linkedin.com/in/saadrashid304/
+*	PORTFOLIO WEBSITE: https://saadrashid-portfolio.netlify.app/
